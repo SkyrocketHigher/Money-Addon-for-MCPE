@@ -8,7 +8,7 @@
       "contact": "https://google.com/",
       
       "addon": false,
-      "maps": true,
+      "maps": false,
       "texture": false,
       "skin": true,
       "more": false,
@@ -45,12 +45,12 @@
   ],
   "Map": [
     {
-        "name": "Indomaret",
-        "role": "hey doyo have indomaret mod",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Indomaret/1/satu.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Indomaret/1/mapindomaret.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Indomaret/1/satu.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Indomaret/1/satu.jpg"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Texture": [
